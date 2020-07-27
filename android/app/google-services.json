@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703148708213",
+    "firebase_url": "https://taja-khabar-f5f9b.firebaseio.com",
+    "project_id": "taja-khabar-f5f9b",
+    "storage_bucket": "taja-khabar-f5f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703148708213:android:6b7a761738933489e7c33c",
+        "android_client_info": {
+          "package_name": "com.example.taja_khabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703148708213-t1s8ogs9kq8moai4ilbkj6o9i2ch7feg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taja_khabar",
+            "certificate_hash": "d4966a23937aeead59cd67a3b8588353eb20e297"
+          }
+        },
+        {
+          "client_id": "703148708213-mfv4juqblep2rfi9c72pma6uaa94d24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EkUE3galsNrzPU5rMBudyaPxXzoyc2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703148708213-mfv4juqblep2rfi9c72pma6uaa94d24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
